@@ -37,7 +37,6 @@ public class FormSatuanObat extends javax.swing.JFrame {
         jTable1.setModel(absTableSatuanObat);
         jTable1.getColumnModel().getColumn(0).setMaxWidth(40);
         jTable1.invalidate();
-        
     }
 
     private void clearForm() {

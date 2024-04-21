@@ -54,7 +54,7 @@ public class FormAbout extends javax.swing.JFrame {
 
         jTextArea1.setColumns(20);
         jTextArea1.setRows(5);
-        jTextArea1.setText("\t  Aplikasi Desktop - Sistem Informasi Apotek Latte\n--------------------------------------------------------------------\nAplikasi ini merupakan aplikasi pencatatan Data Obat, Dokter, \nPasien, Distributor Obat. Aplikasi ini juga dapat melakukan\npencatatan data Transaksi Obat Masuk dan Transaksi Resep Obat.\n\nVersion: 1.3\nRelease Date: 01 Mei 2017");
+        jTextArea1.setText("\t  Aplikasi Desktop - Sistem Informasi Apotek Latte\n--------------------------------------------------------------------\nAplikasi ini merupakan aplikasi pencatatan Data Obat, Dokter, \nPasien, Distributor Obat. Aplikasi ini juga dapat melakukan\npencatatan data Transaksi Obat Masuk dan Transaksi Resep Obat.\n\nVersion: 1.4\nRelease Date: 01 Mei 2017\nUpdated Date: 15 April 2024");
         jTextArea1.setEnabled(false);
         jScrollPane1.setViewportView(jTextArea1);
 

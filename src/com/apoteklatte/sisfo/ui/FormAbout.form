@@ -121,7 +121,7 @@
               <Properties>
                 <Property name="columns" type="int" value="20"/>
                 <Property name="rows" type="int" value="5"/>
-                <Property name="text" type="java.lang.String" value="&#x9;  Aplikasi Desktop - Sistem Informasi Apotek Latte&#xa;--------------------------------------------------------------------&#xa;Aplikasi ini merupakan aplikasi pencatatan Data Obat, Dokter, &#xa;Pasien, Distributor Obat. Aplikasi ini juga dapat melakukan&#xa;pencatatan data Transaksi Obat Masuk dan Transaksi Resep Obat.&#xa;&#xa;Version: 1.3&#xa;Release Date: 01 Mei 2017"/>
+                <Property name="text" type="java.lang.String" value="&#x9;  Aplikasi Desktop - Sistem Informasi Apotek Latte&#xa;--------------------------------------------------------------------&#xa;Aplikasi ini merupakan aplikasi pencatatan Data Obat, Dokter, &#xa;Pasien, Distributor Obat. Aplikasi ini juga dapat melakukan&#xa;pencatatan data Transaksi Obat Masuk dan Transaksi Resep Obat.&#xa;&#xa;Version: 1.4&#xa;Release Date: 01 Mei 2017&#xa;Updated Date: 15 April 2024"/>
                 <Property name="enabled" type="boolean" value="false"/>
               </Properties>
             </Component>
